@@ -33,8 +33,5 @@
       "path": "C:\\Program Files\\Git\\bin\\bash.exe"
     }
   },
-  "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "[html]": {
-    "editor.defaultFormatter": "vscode.html-language-features"
-  }
+  "terminal.integrated.defaultProfile.windows": "Git Bash"
 }
